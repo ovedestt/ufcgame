@@ -1,5 +1,5 @@
-# UFCGAME
-Programador junior: Oved Estrada
+# JUEGO
+Programador junior: Oved Estrada-clave 8
 
 # FASE 1: ANÁLISIS
 Documento donde se analizaron los requerimientos funcionales y no funcionales del videojuego UFC GAME.
